@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Sammy593/express_app.git
+  git clone https://github.com/Sammy593/express_mysql_app.git
 ```
 
 Go to the project directory
